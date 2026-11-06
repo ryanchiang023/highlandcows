@@ -10,7 +10,7 @@ The goal of this website is to introduce visitors to Highland cattle and provide
 - Physical characteristics and appearance
 - Interesting facts about the breed
 
-## Technologies Used
+## Languages Used
 
 - HTML
 - CSS
